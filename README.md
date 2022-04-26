@@ -1,6 +1,6 @@
 #   #JuniorRodriguesb
                         
-Olá, me chamo Júnior, sou Analista de Sistemas | Bacharel em Ciênc.ia da Computação. <h2>
+Olá, me chamo Júnior, sou Analista de Sistemas | Bacharel em Ciência da Computação. <h2>
   Estudando e Aprendendo</h2><img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=whit"/>
   
 
